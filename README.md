@@ -1,5 +1,5 @@
 # mnist_classification
-一份已填写完整的用于实现手写数字分类的代码，分别运用sklearn（逻辑回归、贝叶斯、svm及调参后的svm等）和keras进行实现。
+一份已填写完整的用于实现手写数字分类的代码，分别运用机器学习库sklearn（逻辑回归、贝叶斯、svm及调参后的svm等）和深度学习框架keras进行实现。
 
 # Code structure
 * [`numpy_matplotlib_sklearn.ipynb`](numpy_matplotlib_sklearn.ipynb): for numpy, matplotlib and sklearn.
